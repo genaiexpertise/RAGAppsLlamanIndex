@@ -1,0 +1,48 @@
+site_name: RAG Application Development Using Llamanindex Orchestration Framework
+
+repo_url: https://github.com/genaiexpertise/rag-application-development
+repo_name: genaiexpertise/rag-application-development
+edit_uri: edit/main/docs/
+
+
+theme:
+  name: material
+
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+
+
+nav:
+  - Home: index.md
+  - Module 1: ./module1/README.md
+  - Module 2: ./module2/README.md
+  - Module 3: ./module3/README.md
+  - Module 4: ./module4/README.md
+  - Module 5: ./module5/README.md
+  - Module 6: ./module6/README.md
+  - Project: ./project/README.md
+
+  
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tajudeenolarewajuabdulazeez/
+      name: linkedin
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/genaiexpertise
+      name: github
+
+
+copyright: Copyright &copy; 2024  genaiexpertise
